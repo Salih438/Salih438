@@ -1,31 +1,133 @@
-### Merhaba, ben Salih! 👋
+# Merhaba, Ben Salih Balta 👋
 
-Gümüşhane Üniversitesi Yazılım Mühendisliği 2. sınıf öğrencisiyim. Benim için yazılım, sadece ekrana kod satırları dizmekten ibaret değil; karşılaştığım problemleri analiz etmek, sürekli öğrenmek ve günün sonunda ortaya kaliteli, sürdürülebilir işler çıkarmak demek. Sadece teknik tarafta değil, ekosistemin tam içindeyim. GDG DevFest gibi teknoloji odaklı etkinliklerde yer almak ve ASELSAN gibi sektörün zirvesindeki kurumların çalışma ortamlarını yerinde gözlemlemek, mühendislik vizyonumu şekillendiren en önemli adımlardan oldu.
+🎓 Yazılım Mühendisliği 2. sınıf öğrencisiyim ve yazılım geliştirme, siber güvenlik ve yapay zeka alanlarında kendimi sürekli geliştirmeye odaklanıyorum.
 
-🚀 **Neler Yapıyorum, Hangi Alanlara İlgi Duyuyorum?**
+Benim için yazılım yalnızca kod yazmak değil; problemleri analiz etmek, doğru çözümler tasarlamak ve sürdürülebilir sistemler geliştirmektir. Temiz kod, nesne yönelimli programlama prensipleri ve yazılım mimarisi konularına özel ilgi duyuyorum.
 
-*   **Siber Güvenlik ve Omuz Omuza Mücadele:** En çok heyecan duyduğum ve üzerinde yoğunlaştığım alanların başında siber güvenlik geliyor. Siber Vatan programı kapsamında, yetenekli ekip arkadaşlarımla birlikte sistemlerin görünmeyen yüzünü keşfediyor, CTF (Capture The Flag) yarışmalarında kafa patlatıyoruz. Birlikte bir zafiyeti analiz etmenin ve o çözüme omuz omuza ulaşmanın verdiği tatmin benim için paha biçilemez.
-*   **Yapay Zeka & Temel Mühendislik:** Bir yandan AI Future programıyla modern yapay zeka ekosistemini yakından takip ederken, diğer yandan Java, Python ve C++ gibi güçlü dillerle mühendislik temellerimi sağlamlaştırıyorum. Masaüstü yazılımlarından sistem mimarilerine kadar her alanda kodluyor, mimari tasarımlar üzerine kafa yoruyorum.
-*   **Topluluk ve Ekip Ruhu:** Sadece bilgisayar başında kod yazan biri değilim. TUA Astro Hackathon gibi büyük çaplı etkinliklerde destek ve organizasyon rollerinde görev alarak, sahada kriz çözmeyi, insanları yönlendirmeyi ve büyük bir ekibin parçası olmayı deneyimledim. 
+---
 
-🛠️ **Kullandığım Araçlar ve Teknolojiler**
+## 🚀 İlgi Alanlarım
 
-*   **Siber Güvenlik:** Hack The Box ve PortSwigger platformlarında aktif pratik yapıyor; Burp Suite, Metasploit ve Kali Linux ortamlarında zafiyet analizi ve sızma testleri (pentest) gerçekleştiriyorum.
-*   **Geliştirme Ortamları:** Kodlamalarımda ağırlıklı olarak IntelliJ IDEA, PyCharm ve Visual Studio kullanıyorum.
+### 🔐 Siber Güvenlik
 
-🎯 **Nasıl Bir İş Çıkarıyorum?**
+Siber güvenlik alanında aktif olarak çalışıyor ve kendimi geliştirmeye devam ediyorum.
 
-Geliştirdiğim her işte en büyük önceliğim; mimarinin temiz, kodların okunabilir (clean code) ve yapının Nesne Yönelimli Programlama (OOP) standartlarına uygun olmasıdır. Arkamda her zaman başka yazılımcıların da rahatça anlayabileceği, profesyonel ve düzenli bir iş bırakmayı hedeflerim.
+* Siber Vatan Programı katılımcısı
+* CTF (Capture The Flag) yarışmalarında aktif
+* Web güvenliği ve zafiyet analizi üzerine çalışmalar
+* Pentest ve güvenlik araştırmaları
 
-Neler ürettiğimi, hangi teknolojilerle nasıl çözümler geliştirdiğimi aşağıdaki repolarımda inceleyebilirsiniz. Repolarım, benim dijital atölyem! ⚙️
+Kullandığım araçlardan bazıları:
 
-🌐 **Yabancı Dil & İletişim**
+* Burp Suite
+* Metasploit
+* Kali Linux
+* Wireshark
+* Nmap
 
-İngilizce (B1) ve Almanca (A2) dillerine hakimim. Global dokümantasyonları anlık olarak takip etmek ve uluslararası vizyona sahip projelerde yer alabilmek benim için bir standart.
+---
 
-📫 **Benimle İletişime Geçin:**
+### 🤖 Yapay Zeka ve Yazılım Geliştirme
 
-Siber güvenlik üzerine sohbet etmek, yeni teknolojiler hakkında fikir alışverişi yapmak veya tanışmak isterseniz bana her zaman ulaşabilirsiniz.
+AI Future programı kapsamında yapay zeka teknolojilerini takip ediyor ve modern yazılım geliştirme yaklaşımları üzerine çalışıyorum.
 
-*   **E-posta:** salihbalta2018@gmail.com
-*   **LinkedIn:** [Salih Balta](https://www.linkedin.com/in/salih-balta-68337b340/)
+Çalıştığım programlama dilleri:
+
+* Java
+* Python
+* C++
+* JavaScript
+
+İlgi duyduğum alanlar:
+
+* Yapay Zeka
+* Backend Development
+* Yazılım Mimarisi
+* Nesne Yönelimli Programlama (OOP)
+* Algoritmalar ve Veri Yapıları
+
+---
+
+### 🌍 Topluluk ve Etkinlikler
+
+Teknoloji topluluklarının aktif bir üyesiyim.
+
+Katıldığım etkinliklerden bazıları:
+
+* GDG DevFest
+* TUA Astro Hackathon
+* Siber Vatan Etkinlikleri
+* Üniversite Teknoloji Organizasyonları
+
+Bu etkinliklerde teknik çalışmaların yanında ekip çalışması, organizasyon ve problem çözme becerilerimi geliştirme fırsatı buldum.
+
+---
+
+## 🛠️ Teknolojiler ve Araçlar
+
+### Programlama Dilleri
+
+* Java
+* Python
+* C++
+* JavaScript
+
+### Geliştirme Araçları
+
+* IntelliJ IDEA
+* PyCharm
+* Visual Studio 2022
+* VS Code
+* Git
+* GitHub
+
+### Siber Güvenlik Araçları
+
+* Kali Linux
+* Burp Suite
+* Metasploit
+* Wireshark
+* Nmap
+* Hack The Box
+* PortSwigger Labs
+
+---
+
+## 🎯 Hedeflerim
+
+* Siber güvenlik alanında uzmanlaşmak
+* Güvenli ve ölçeklenebilir yazılımlar geliştirmek
+* Açık kaynak projelere katkı sağlamak
+* Yapay zeka ve yazılım mühendisliğini birlikte kullanabileceğim projelerde yer almak
+
+---
+
+## 📂 Projelerim
+
+Bu profilde yer alan repolarım; öğrenme sürecimi, geliştirdiğim projeleri ve teknik çalışmalarımı içermektedir.
+
+Her projede:
+
+* Temiz kod prensipleri
+* OOP yaklaşımı
+* Sürdürülebilir mimari
+* Dokümantasyon
+
+oluşturmaya özen gösteriyorum.
+
+---
+
+## 🌐 Yabancı Diller
+
+* 🇬🇧 İngilizce (B1)
+* 🇩🇪 Almanca (A2)
+
+---
+
+## 📫 Bana Ulaşın
+
+📧 E-posta: [salihbalta2018@gmail.com](mailto:salihbalta2018@gmail.com)
+
+💼 LinkedIn: Salih Balta
+
+⭐ Profilimdeki projeleri incelemeyi unutmayın.
