@@ -126,8 +126,7 @@ oluşturmaya özen gösteriyorum.
 
 ## 📫 Bana Ulaşın
 
-📧 E-posta: [salihbalta2018@gmail.com](mailto:salihbalta2018@gmail.com)
-
-💼 LinkedIn: Salih Balta
+📧 **E-posta:** [salihbalta2018@gmail.com](mailto:salihbalta2018@gmail.com)
+💼 **LinkedIn:** [Salih Balta](https://www.linkedin.com/in/salih-balta-68337b340/)
 
 ⭐ Profilimdeki projeleri incelemeyi unutmayın.
