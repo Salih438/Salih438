@@ -1,30 +1,44 @@
-# Merhaba, ben Salih Balta 👋
+<h1 align="center">Salih Balta</h1>
 
-Gümüşhane Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Java ile backend geliştirme ve web uygulamalarında erişim güvenliği üzerine çalışıyorum. Auspify Technologies’teki makine öğrenmesi stajımda ise Python ile Netflix katalog verileri üzerinde sınıflandırma modelleri geliştiriyorum.
+<p align="center"><strong>Java Backend · Güvenli Web Uygulamaları</strong><br>
+Gümüşhane Üniversitesi · Yazılım Mühendisliği, 3. sınıf · İstanbul</p>
 
-[E-posta](mailto:salihbalta2018@gmail.com) · [LinkedIn](https://www.linkedin.com/in/salihbalta/) · [Youthall](https://www.youthall.com/tr/me/salihbalta/)
+<p align="center">
+  <a href="https://teknoshop-salih14.vercel.app/"><strong>Teknoshop demosunu aç ↗</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/salihbalta/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.youthall.com/tr/me/salihbalta/">Youthall</a> &nbsp;·&nbsp;
+  <a href="mailto:salihbalta2018@gmail.com">E-posta</a>
+</p>
 
-## Teknoshop | Solentiva staj projem
+Java ile iş kurallarını modellemeyi ve web uygulamalarında erişim kontrolleri geliştirmeyi seviyorum. **Backend geliştirme ve uygulama güvenliği alanlarında staj arıyorum.** Solentiva’da bir e-ticaret uygulamasını uçtan uca geliştirdim. Auspify Technologies’teki makine öğrenmesi stajımda ise Python ile sınıflandırma modelleri üzerine çalışıyorum.
 
-2026 yazında Trabzon Teknokent’teki Solentiva stajımda ürün kataloğu, sepet, sipariş takibi ve yönetim paneli olan bir e-ticaret uygulaması geliştirdim. Next.js ve TypeScript ile yazdığım uygulamada verileri Prisma üzerinden PostgreSQL’de tuttum. Clerk ile müşteri ve yönetici rollerini tanımladım. API tarafında özellikle bir müşterinin başka bir müşteriye ait siparişe erişmesini engelleyen kontroller üzerinde çalıştım.
+## Teknoshop
 
-Stajdan sonra da projeye testler ekledim ve karşılaştığım hataları düzelttim. [Kaynak kodu](https://github.com/Salih438/Teknoshop) · [Canlı demo](https://teknoshop-salih14.vercel.app/)
+**E-ticaret platformu** · Solentiva, Trabzon Teknokent · Temmuz–Ağustos 2026
 
-## Seçili projelerim
+<a href="https://teknoshop-salih14.vercel.app/"><img src="https://github.com/user-attachments/assets/71c31dd8-d55d-4530-a978-e9849b792986" alt="Solentiva stajımda geliştirdiğim Teknoshop mağazasının ana sayfası" width="760"></a>
 
-| Proje | Ne geliştirdim? | Teknolojiler |
-| --- | --- | --- |
-| [Araç Kiralama ve Filo Yönetimi](https://github.com/Salih438/RentACar-Management-System) | Aktif kiralamaları ve ücretleri takip eden bir masaüstü uygulaması yazdım. Kullanıcı arayüzünü, iş kurallarını ve veritabanı işlemlerini ayrı katmanlarda tuttum. | Java, Swing, JDBC, SQLite |
-| [POS-Market](https://github.com/Salih438/POS-Market) | Kilogramla ve adetle satılan ürünleri destekleyen, stok takibi ve satış analizi içeren bir kasa uygulaması geliştirdim. | Java, OOP |
-| [Netflix İçerik Türü Tahmini](https://github.com/Salih438/Netflix-Content-Type-Prediction-Task2) | 8.790 katalog kaydında film ve dizileri ayırt etmek için dört sınıflandırıcıyı karşılaştırdım. Modelleri doğruluk ve makro F1 ölçütleriyle değerlendirdim. | Python, scikit-learn |
-| [Netflix İzleyici Yaş Grubu Tahmini](https://github.com/Salih438/Netflix-Audience-Rating-Classification-Task3) | Tür ve süre gibi katalog bilgilerinden bir yapımın hangi yaş grubuna uygun olduğunu tahmin eden dört sınıflı bir model üzerinde çalıştım. | Python, scikit-learn |
-| [Yağmurlu Gece Sokağı](https://github.com/Salih438/Rainy-Night-in-3D) | Klavye ve fareyle gezilebilen bir gece sokağı tasarladım. Yağmur, trafik ve şimşek efektlerini sahneye ekledim, ortam seslerini kodla ürettim. | JavaScript, Three.js, WebGL, Web Audio API |
+Ürün kataloğunu, sepeti, sipariş takibini ve yönetim panelini geliştirdim. Projenin en çok üzerinde durduğum kısmı sipariş erişimiydi. Clerk ile müşteri ve yönetici rollerini ayırdım. API’de müşterinin yalnızca kendisine ait siparişlere erişebilmesi için sahiplik kontrolleri üzerinde çalıştım. Staj sonrasında projeye testler ekledim ve bulduğum hataları düzelttim.
+
+`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Clerk`  
+[Kaynak kodunu incele →](https://github.com/Salih438/Teknoshop) · [Canlı mağazayı gez ↗](https://teknoshop-salih14.vercel.app/)
+
+## Seçili çalışmalar
+
+| Proje | Projede çözdüğüm problem |
+| --- | --- |
+| **[Araç Kiralama ve Filo Yönetimi](https://github.com/Salih438/RentACar-Management-System)** <br> Java · Swing · JDBC · SQLite | Kiralama, iade ve ücret hesaplarını aynı uygulamada topladım. Dört kullanıcı rolünün erişebildiği işlemleri ayırdım ve geciken araçların takip ekranında görünmesini sağladım. |
+| **[POS-Market](https://github.com/Salih438/POS-Market)** <br> Java · Swing · SQLite | Kasada hem tartılan hem de adetle satılan ürünleri destekledim. Satış kayıtlarını veritabanı işlemleriyle korudum ve stok yönetimini ayrı bir ekrana taşıdım. |
+| **[Netflix İçerik Türü Tahmini](https://github.com/Salih438/Netflix-Content-Type-Prediction-Task2)** <br> Python · scikit-learn | 8.790 kayıtta film ve dizileri ayırmak için dört modeli karşılaştırdım. Sürenin dakika veya sezon olarak yazılması cevabı ele verdiği için süre bilgisini eğitimden çıkardım. |
+| **[Netflix İzleyici Yaş Grubu Tahmini](https://github.com/Salih438/Netflix-Audience-Rating-Classification-Task3)** <br> Python · scikit-learn | Bir yapımın hangi yaş grubuna uygun olduğunu tür ve süre gibi katalog bilgilerinden tahmin eden dört sınıflı bir model üzerinde çalıştım. |
+| **[Yağmurlu Gece Sokağı](https://github.com/Salih438/Rainy-Night-in-3D)** <br> Three.js · WebGL · Web Audio API | Tarayıcıda klavye ve fareyle gezilebilen bir gece sokağı tasarladım. Yağmur ve şimşek efektlerini sahneye ekledim, ortam seslerini kodla ürettim. |
 
 ## Eğitim ve topluluk
 
-- **Siber Vatan** — 200 saatlik ileri düzey eğitimde web güvenliği, zafiyet analizi, tersine mühendislik ve zararlı yazılım analizi üzerine uygulamalı çalıştım.
-- **IBM ve Kodluyoruz** — CyberStart 2.0 İleri Seviye programını tamamladım. AI Future programıyla yapay zekâ alanındaki eğitimime devam ediyorum.
-- **TUA Astro Hackathon 2026** — Organizasyon ve destek ekibinde görev aldım.
-- **Büyük Karadeniz Forumu 2025** — Üniversite temsilcisi olarak yer aldım.
+**Siber Vatan** · 200 saatlik ileri düzey eğitimde web güvenliği, zafiyet analizi, tersine mühendislik ve zararlı yazılım analizi üzerine uygulamalı çalıştım.
 
-**Yabancı dillerim** · İngilizce (B1) · Almanca (A2)
+**IBM ve Kodluyoruz** · CyberStart 2.0 İleri Seviye programını tamamladım. AI Future ile yapay zekâ alanındaki eğitimime devam ediyorum.
+
+**Topluluk deneyimi** · TUA Astro Hackathon’da organizasyon ve destek ekibinde görev aldım (2026). Büyük Karadeniz Forumu’na üniversite temsilcisi olarak katıldım (2025).
+
+**Yabancı diller** · İngilizce B1 · Almanca A2
