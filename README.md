@@ -10,7 +10,7 @@ Gümüşhane Üniversitesi · Yazılım Mühendisliği, 3. sınıf · İstanbul<
   <a href="mailto:salihbalta2018@gmail.com">E-posta</a>
 </p>
 
-Java ile iş kurallarını modellemeyi ve web uygulamalarında erişim kontrolleri geliştirmeyi seviyorum. **Backend geliştirme ve uygulama güvenliği alanlarında staj arıyorum.** Solentiva’da bir e-ticaret uygulamasını uçtan uca geliştirdim. Auspify Technologies’teki makine öğrenmesi stajımda ise Python ile sınıflandırma modelleri üzerine çalışıyorum.
+Java ile iş kurallarını modellemeyi ve web uygulamalarında erişim kontrolleri geliştirmeyi seviyorum. **Backend geliştirme ve uygulama güvenliği alanlarında staj arıyorum.** Solentiva’da bir e-ticaret uygulamasını uçtan uca geliştirdim. Auspify Technologies’teki makine öğrenmesi stajımda ise 8.790 katalog kaydında dört sınıflandırıcıyı karşılaştırdım.
 
 ## Teknoshop
 
@@ -23,6 +23,12 @@ Java ile iş kurallarını modellemeyi ve web uygulamalarında erişim kontrolle
 `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Clerk`  
 [Kaynak kodunu incele →](https://github.com/Salih438/Teknoshop) · [Canlı mağazayı gez ↗](https://teknoshop-salih14.vercel.app/)
 
+## SmartDoc Analyzer
+
+Telefonla çekilmiş eğik ve gölgeli belgeleri OpenCV ile düzelten bir tarama uygulaması geliştirdim. Örnek belgeyi açarak algılanan köşeleri değiştirebilir, önceki ve sonraki görüntüyü karşılaştırabilir, birden fazla sayfayı A4 PDF olarak indirebilirsin.
+
+[Örnek belgeyle dene](https://smartdoc-analyzer.streamlit.app/) · [Kaynak kodu ve teknik notlar](https://github.com/Salih438/SmartDoc-Analyzer)
+
 ## Seçili çalışmalar
 
 | Proje | Projede çözdüğüm problem |
@@ -30,14 +36,14 @@ Java ile iş kurallarını modellemeyi ve web uygulamalarında erişim kontrolle
 | **[Araç Kiralama ve Filo Yönetimi](https://github.com/Salih438/RentACar-Management-System)** <br> Java · Swing · JDBC · SQLite | Kiralama, iade ve ücret hesaplarını aynı uygulamada topladım. Dört kullanıcı rolünün erişebildiği işlemleri ayırdım ve geciken araçların takip ekranında görünmesini sağladım. |
 | **[POS-Market](https://github.com/Salih438/POS-Market)** <br> Java · Swing · SQLite | Kasada hem tartılan hem de adetle satılan ürünleri destekledim. Satış kayıtlarını veritabanı işlemleriyle korudum ve stok yönetimini ayrı bir ekrana taşıdım. |
 | **[Netflix İçerik Türü Tahmini](https://github.com/Salih438/Netflix-Content-Type-Prediction-Task2)** <br> Python · scikit-learn | 8.790 kayıtta film ve dizileri ayırmak için dört modeli karşılaştırdım. Sürenin dakika veya sezon olarak yazılması cevabı ele verdiği için süre bilgisini eğitimden çıkardım. |
-| **[Netflix İzleyici Yaş Grubu Tahmini](https://github.com/Salih438/Netflix-Audience-Rating-Classification-Task3)** <br> Python · scikit-learn | Bir yapımın hangi yaş grubuna uygun olduğunu tür ve süre gibi katalog bilgilerinden tahmin eden dört sınıflı bir model üzerinde çalıştım. |
+| **[Tech İstanbul · Sohbet asistanları](https://github.com/Salih438/tech-istanbul-n8n-portfolio)** <br> n8n · Telegram · RAG | Dört uygulamada stok hareketlerini kaydetme, kaynak göstererek yanıt üretme ve personel ile müşteriye farklı araçlar sunma akışları geliştirdim. |
 | **[Yağmurlu Gece Sokağı](https://github.com/Salih438/Rainy-Night-in-3D)** <br> Three.js · WebGL · Web Audio API | Tarayıcıda klavye ve fareyle gezilebilen bir gece sokağı tasarladım. Yağmur ve şimşek efektlerini sahneye ekledim, ortam seslerini kodla ürettim. |
 
 ## Eğitim ve topluluk
 
 **Siber Vatan** · 200 saatlik ileri düzey eğitimde web güvenliği, zafiyet analizi, tersine mühendislik ve zararlı yazılım analizi üzerine uygulamalı çalıştım.
 
-**IBM ve Kodluyoruz** · CyberStart 2.0 İleri Seviye programını tamamladım. AI Future ile yapay zekâ alanındaki eğitimime devam ediyorum.
+**IBM ve Kodluyoruz** · CyberStart 2.0 ve AI4Future programlarının ileri seviye eğitimlerini tamamladım.
 
 **Topluluk deneyimi** · TUA Astro Hackathon’da organizasyon ve destek ekibinde görev aldım (2026). Büyük Karadeniz Forumu’na üniversite temsilcisi olarak katıldım (2025).
 
